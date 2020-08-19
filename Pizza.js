@@ -1,6 +1,6 @@
 export default class Pizza{
 constructor(masa,tamano,ingredientes){
-this.masa=masa;
+.mthisasa=masa;
 this.tamano=tamano;
 this.ingredientes= ingredientes;
 }// fin del constructor
